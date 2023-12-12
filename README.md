@@ -12,6 +12,13 @@ To run this project, you will need Python installed on your system along with se
 - NumPy
 - Matplotlib
 
+## Dataset
+
+The dataset for this project can be found on Kaggle. You can download it using the following link:
+
+[Deforestation in Ukraine Dataset on Kaggle](https://www.kaggle.com/datasets/isaienkov/deforestation-in-ukraine)
+
+
 ### Setup
 1. **Clone the repository:**
 2. **Navigate to the project directory:**
